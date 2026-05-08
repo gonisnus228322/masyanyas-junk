@@ -2,7 +2,7 @@ Package: com.masya.hellopkg
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: gonisnus228322
-Filename: debs/hello_pkg.deb
+Filename: ./hello_pkg.deb
 Size: 812
 MD5sum: f3fb13e914110581390ba4c03d1e1e01
 SHA1: 0b29cf782b3d6a75f602ec9de1168911f44ca127
@@ -11,4 +11,52 @@ Section: Terminal_Support
 Description: My first test command for iOS 6.
 Author: gonisnus228322
 Name: HelloCommand
+
+Package: com.xalaxxi.sl
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: xalaxxi
+Installed-Size: 52
+Filename: ./debs/com.xalaxxi.sl_0.0.1-1+debug_iphoneos-arm.deb
+Size: 2524
+MD5sum: 37a2885e2e622faf5f92a32148b51422
+SHA1: e9447bd808740afce7ee450733787b90cecc4ad1
+SHA256: 5e500c35827bba08c10202f2becf449386eb7c3f5fc76cd845a6bfe981a6e682
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: xalaxxi
+Name: sl
+
+Package: com.xalaxxi.sl
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: xalaxxi
+Installed-Size: 52
+Filename: ./debs/com.xalaxxi.sl_0.0.1-2+debug_iphoneos-arm.deb
+Size: 2524
+MD5sum: 04324dde146ca64fa9407d66dd0b872d
+SHA1: a6aa1ccecda544a5bc3d48371fc97f34f436ae33
+SHA256: d14694694824b0e3081f0a876e416a449f9b7b24b069dac0f117e33e0288ba40
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: xalaxxi
+Name: sl
+
+Package: com.xalaxxi.sl
+Version: 0.0.1-5+debug-1+debug
+Architecture: iphoneos-arm
+Maintainer: xalaxxi
+Installed-Size: 52
+Filename: ./debs/com.xalaxxi.sl_0.0.1-5+debug-1+debug_iphoneos-arm.deb
+Size: 2790
+MD5sum: 2205563eb0b88f377ddd11906e7a4bbd
+SHA1: e9d6c13e906a172b38d8ff516ad6beeb9ef31014
+SHA256: 336b914e6be6f30e56bcfcaec27c683797c2aae02b57856ab5077c84a0a1f796
+Section: System
+Description: Installs Steam Locomotive in the Terminal.
+Tag: role::hacker
+Author: xalaxxi
+Name: sl
 
