@@ -1,0 +1,14 @@
+Package: com.masya.hellopkg
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: gonisnus228322
+Filename: debs/hello_pkg.deb
+Size: 812
+MD5sum: f3fb13e914110581390ba4c03d1e1e01
+SHA1: 0b29cf782b3d6a75f602ec9de1168911f44ca127
+SHA256: e03060366f4717b330e45eb65343b86368f092884cbe0a6980024a85f10d51f7
+Section: Terminal_Support
+Description: My first test command for iOS 6.
+Author: gonisnus228322
+Name: HelloCommand
+
