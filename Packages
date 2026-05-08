@@ -1,0 +1,13 @@
+Package: com.masya.hello
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Masya
+Filename: ./hello_pkg.deb
+Size: 582
+MD5sum: ebc5fc86b79549922e8d39c121b06056
+SHA1: f35527f1f8f705feb31adace775e64b9cea0740a
+SHA256: cae0b41bfa6167e13d6c3b6ab1ba87f55715f90e8026f1276d9d98ec14f252d6
+Section: Utilities
+Description: My first command line tool.
+Name: HelloCommand
+
